@@ -19,8 +19,7 @@ defmodule Client.Mixfile do
   defp deps do
     [
        {:plug, "~> 1.0.0"},
-       {:cowboy, "~> 1.0.0"},
-       {:exrm, "~> 1.0.0-rc7"}
+       {:cowboy, "~> 1.0.0"}
     ]
   end
 end
