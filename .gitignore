@@ -1,0 +1,14 @@
+/_build
+/cover
+/deps
+/rel
+/priv/static/extern
+erl_crash.dump
+*.ez
+bower_components
+node_modules
+*.log
+.*
+!.gitignore
+!.bowerrc
+*.lock
