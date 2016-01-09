@@ -1,4 +1,4 @@
-"use struct"
+"use strict"
 
 import Socket from "./socket";
 import Field from "./field";
